@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsan-lang
-- 👀 I’m interested in building apps and 3D webs
-- 🌱 I’m currently learning CSS 
+- 👀 I’m interested in building apps
+- 🌱 I’m currently learning full stack
 - 📫 How to reach me email: bhattiahsn786@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm a full stack developer
